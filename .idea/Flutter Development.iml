@@ -6,6 +6,12 @@
       <excludeFolder url="file://$MODULE_DIR$/Test Project/hello_world/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/Test Project/hello_world/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/Test Project/hello_world/build" />
+      <excludeFolder url="file://$MODULE_DIR$/my_stateful/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/my_stateful/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/my_stateful/build" />
+      <excludeFolder url="file://$MODULE_DIR$/02/my_stateless/build" />
+      <excludeFolder url="file://$MODULE_DIR$/02/my_stateless/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/02/my_stateless/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

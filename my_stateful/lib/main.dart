@@ -3,6 +3,7 @@ import 'package:draggable_fab/draggable_fab.dart';
 
 void main() {
   runApp(MaterialApp(
+    debugShowCheckedModeBanner: false,
     home: MyButton(),
   ));
 }
@@ -10,7 +11,8 @@ void main() {
 class MyButton extends StatefulWidget {
   @override
   MyButtonState createState() {
-    return MyButtonState();
+    return MyButtonState(
+    );
   }
 }
 
